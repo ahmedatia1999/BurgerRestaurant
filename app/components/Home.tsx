@@ -18,7 +18,7 @@ const Home = () => {
         duration: 1000,
         easing: "ease",
         once: true,
-        auchorRlacement: "top-center",
+        anchorPlacement: "top-center",
       });
     };
     initAOS();

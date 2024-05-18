@@ -30,7 +30,7 @@ const PopularBurger = () => {
       </h1>
       <div className="w-[80%] mt-[4rem] mx-auto">
         <Carousel
-          additionalTransform={0}
+          additionalTransfrom={0}
           arrows={true}
           autoPlay={true}
           autoPlaySpeed={4000}
