@@ -28,7 +28,7 @@ const responsive = {
 const Hero = () => {
   return (
     <Carousel
-      additionalTransform={0}
+      additionalTransfrom={0}
       arrows={false}
       autoPlay={true}
       autoPlaySpeed={4000}
